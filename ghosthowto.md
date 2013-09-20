@@ -41,4 +41,4 @@ The version of node in your package manager is most likely to old to run Ghost, 
  
 Ok if that all worked alright you should be able to visit your blog here:
  
-[http://localhost:2368/][]
+[http://localhost:2368/](http://localhost:2368/)
